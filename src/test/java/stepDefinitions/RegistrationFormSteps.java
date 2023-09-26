@@ -11,7 +11,9 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import pageObjects.RegistrationFormPageObjects;
 
-public class RegistrationFormSteps {	RegistrationFormPageObjects RegObject = new RegistrationFormPageObjects();
+public class RegistrationFormSteps {	
+	
+	RegistrationFormPageObjects RegObject = new RegistrationFormPageObjects();
 	
 	
 	
@@ -69,7 +71,7 @@ public class RegistrationFormSteps {	RegistrationFormPageObjects RegObject = new
 
 }
 
-
+p
 
 
 

@@ -27,7 +27,7 @@ public class Initializer extends BaseClass {
 		 driver = new ChromeDriver(options);
 		BaseClass.getURL();
 		
-	/*
+/*	
 		if (BaseClass.getBrowserName().equalsIgnoreCase("chrome")) {
 			WebDriverManager.chromedriver().setup();
 			driver = new ChromeDriver();
